@@ -1,0 +1,210 @@
+Pos   	No.   	Sex   	Age   	Organ   	Pathology diagnosis   	Grade   	Stage   	TNM   	ER   	PR   	HER2   	Type †   	UGDH_Stain	UGDH_Score
+A1	1	F	40	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	3+	Metastasis	M/H	2.5
+A2	2	F	55	Lymph node	Metastatic invasive ductal carcinoma from breast	1	–	–	+	–	0	Metastasis	L	1
+A3	3	F	56	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	+++	–	0	Metastasis	M	2
+A4	4	F	48	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	+	++	2+	Metastasis	M	2
+A5	5	F	38	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	++	+	0	Metastasis	M	2
+A6	6	F	56	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	2+	Metastasis	M	2
+A7	7	F	66	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	3+	Metastasis	N/L	0.5
+A8	8	F	55	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	0	Metastasis	N	0
+A9	9	F	44	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	+++	+++	0	Metastasis	M	2
+A10	10	F	56	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	+++	+++	0	Metastasis	L	1
+A11	11	F	51	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	++	++	0	Metastasis	L	1
+A12	12	F	39	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	++	+	0	Metastasis	M	2
+A13	13	F	53	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	3+	Metastasis	M/H	2.5
+A14	14	F	42	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	3+	Metastasis	M	2
+A15	15	F	38	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	0	Metastasis	L	1
+A16	16	F	39	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	+	+	0	Metastasis	L	1
+B1	17	F	60	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	3+	Metastasis	M	2
+B2	18	F	52	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	+	–	2+	Metastasis	L	1
+B3	19	F	52	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	+++	–	3+	Metastasis	H	3
+B4	20	F	80	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	3+	Metastasis	L	1
+B5	21	F	42	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	0	Metastasis	M	2
+B6	22	F	28	Lymph node	Metastatic invasive ductal carcinoma from breast	3	–	–	–	–	3+	Metastasis	H	3
+B7	23	F	58	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	+++	+++	0	Metastasis	H	3
+B8	24	F	62	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	0	Metastasis	L	1
+B9	25	F	49	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	2+	Metastasis	L	1
+B10	26	F	54	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	0	Metastasis	M	2
+B11	27	F	39	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	+	++	0	Metastasis	H	3
+B12	28	F	49	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	++	–	0	Metastasis	M	2
+B13	29	F	59	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	++	–	3+	Metastasis	H	3
+B14	30	F	54	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	0	Metastasis	M	2
+B15	31	F	45	Lymph node	"Metastatic invasive ductal carcinoma from breast (fibrous tissue, blood vessel and lymph node)"	–	–	–	*	*	*	Metastasis	L	1
+B16	32	F	46	Lymph node	Metastatic invasive ductal carcinoma from breast	2	–	–	–	–	0	Metastasis	L	1
+C1	33	F	46	Breast	Invasive ductal carcinoma	1	IIB	T3N0M0	+++	+++	0	Malignant	M	2
+C2	34	F	59	Breast	Invasive ductal carcinoma	1	I	T1N0M0	–	–	3+	Malignant	H	3
+C3	35	F	29	Breast	Invasive ductal carcinoma	1	IIA	T2N0M0	++	–	0	Malignant	H	3
+C4	36	F	55	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+++	–	0	Malignant	H	3
+C5	37	F	72	Breast	Invasive ductal carcinoma with necrosis (sparse)	2	IIB	T2N1M0	–	–	3+	Malignant	L	1
+C6	38	F	30	Breast	Invasive ductal carcinoma	2	IIIA	T2N2M0	–	–	3+	Malignant	H	3
+C7	39	F	64	Breast	Invasive ductal carcinoma	1	IIA	T2N0M0	+++	+++	2+	Malignant	N/L	0.5
+C8	40	F	30	Breast	Invasive ductal carcinoma	2	I	T1CN0M0	++	+++	0	Malignant	H	3
+C9	41	F	67	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+++	++	0	Malignant	H	3
+C10	42	F	50	Breast	Invasive ductal carcinoma	2	IIIB	T4N0M0	–	–	0	Malignant	H	3
+C11	43	F	62	Breast	Invasive ductal carcinoma	2	IIB	T2N1M0	–	–	0	Malignant	M	2
+C12	44	F	52	Breast	Invasive ductal carcinoma of No. 44	2	IIB	T2N1M0	++	–	3+	Malignant	M	2
+C13	45	F	43	Breast	Invasive ductal carcinoma	2	I	T1CN0M0	+++	+++	0	Malignant	L	1
+C14	46	F	41	Breast	Invasive ductal carcinoma	2	IIIA	T3N2M0	–	–	0	Malignant	M	2
+C15	47	F	53	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+	–	3+	Malignant	H	3
+C16	48	F	48	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	++	–	1+	Malignant	L	1
+D1	49	F	42	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	–	0	Malignant	M	2
+D2	50	F	53	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+++	–	1+	Malignant	H	3
+D3	51	F	68	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+++	++	1+	Malignant	H	3
+D4	52	F	38	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+++	+++	0	Malignant	M	2
+D5	53	F	50	Breast	Invasive ductal carcinoma	2	IIB	T2N1M0	–	–	0	Malignant	H	3
+D6	54	F	48	Breast	Invasive ductal carcinoma	2	IIIB	T4N2M0	–	++	0	Malignant	M	2
+D7	55	F	44	Breast	Invasive ductal carcinoma	2	IIIB	T4BN0M0	++	+	0	Malignant	L	1
+D8	56	F	38	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	++	–	2+	Malignant	L	1
+D9	57	F	45	Breast	Invasive ductal carcinoma	2	I	T1N0M0	–	–	0	Malignant	M	2
+D10	58	F	32	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+++	+++	2+	Malignant	H	3
+D11	59	F	52	Breast	Invasive ductal carcinoma	2	IIIB	T4N0M0	++	–	0	Malignant	M	2
+D12	60	F	53	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	–	3+	Malignant	H	3
+D13	61	F	42	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+	+++	0	Malignant	H	3
+D14	62	F	44	Breast	Invasive ductal carcinoma	2	I	T1N0M0	+++	+++	0	Malignant	L	1
+D15	63	F	63	Breast	Invasive ductal carcinoma	2	IIA	T2N0M1	+++	–	0	Malignant	H	3
+D16	64	F	45	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+	+	0	Malignant	L	1
+E1	65	F	51	Breast	Invasive ductal carcinoma	2	IIB	T2N1M0	–	–	3+	Malignant	M	2
+E2	66	F	63	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+++	–	2+	Malignant	H	3
+E3	67	F	54	Breast	Invasive ductal carcinoma	2	I	T1N0M0	+++	+	3+	Malignant	L	1
+E4	68	F	65	Breast	Invasive ductal carcinoma	2	IIIA	T1N2M0	–	–	0	Malignant	L	1
+E5	69	F	38	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	+	0	Malignant	M/H	2.5
+E6	70	F	35	Breast	Invasive ductal carcinoma (brease tissue)	–	I	T1N0M0	–	+	0	Malignant	N/L	0.5
+E7	71	F	54	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	++	–	0	Malignant	M	2
+E8	72	F	29	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	–	3+	Malignant	N/L	0.5
+E9	73	F	50	Breast	Invasive ductal carcinoma (fatty tissue and blood vessel)	–	IIIA	T2N2M0	*	*	*	Malignant	M	2
+E10	74	F	55	Breast	Invasive ductal carcinoma	2	IIIB	T4N0M0	–	–	1+	Malignant	H	3
+E11	75	F	45	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	++	0	Malignant	H	3
+E12	76	F	43	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	++	+++	0	Malignant	M	2
+E13	77	F	45	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	–	0	Malignant	M	2
+E14	78	F	50	Breast	Invasive ductal carcinoma	2	I	T1N0M0	+++	+++	0	Malignant	N/L	0.5
+E15	79	F	28	Breast	Invasive ductal carcinoma	2	IIA	T1N1M0	–	–	3+	Malignant	H	3
+E16	80	F	45	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	+++	++	2+	Malignant	H	3
+F1	81	F	63	Breast	Invasive ductal carcinoma	3	IIA	T2N0M0	+++	+++	0	Malignant	H	3
+F2	82	F	65	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	++	++	0	Malignant	M	2
+F3	83	F	71	Breast	Invasive ductal carcinoma	2	IIIA	T2N2M0	+++	++	0	Malignant	M	2
+F4	84	F	52	Breast	Invasive ductal carcinoma	2	IIB	T2N0M0	–	–	0	Malignant	M	2
+F5	85	F	62	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	++	++	1+	Malignant	M	2
+F6	86	F	45	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	–	0	Malignant	M	2
+F7	87	F	38	Breast	Invasive ductal carcinoma	2	IIB	T2N1M0	–	–	2+	Malignant	M	2
+F8	88	F	46	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	–	2+	Malignant	M	2
+F9	89	F	32	Breast	Invasive ductal carcinoma	2	I	T1N0M0	–	–	0	Malignant	L	1
+F10	90	F	41	Breast	Invasive ductal carcinoma	2	IIIB	T4N1M0	++	+	2+	Malignant	H	3
+F11	91	F	37	Breast	Invasive ductal carcinoma	2	IIB	T2N1M0	–	–	0	Malignant	M	2
+F12	92	F	29	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	–	3+	Malignant	M	2
+F13	93	F	62	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	–	0	Malignant	M	2
+F14	94	F	50	Breast	Invasive ductal carcinoma	3	IIIA	T3N2M0	–	–	1+	Malignant	N	0
+F15	95	F	55	Breast	Invasive ductal carcinoma	2	IIA	T2N0M0	–	–	0	Malignant	M	2
+F16	96	F	45	Breast	Invasive ductal carcinoma	2	IIIA	T3N0M0	+++	–	1+	Malignant	H	3
+G1	97	F	56	Breast	Invasive ductal carcinoma	3	IIB	T2N1M0	–	–	0	Malignant	H	3
+G2	98	F	48	Breast	Invasive ductal carcinoma	3	IIIA	T2N2M0	–	–	3+	Malignant	M	2
+G3	99	F	42	Breast	Invasive ductal carcinoma	3	IIB	T2N1M0	+++	–	0	Malignant	L	1
+G4	100	F	47	Breast	Invasive ductal carcinoma	3	IIIB	T4N0M0	–	+	0	Malignant	M	2
+G5	101	F	44	Breast	Invasive lobular carcinoma	–	IIA	T2N0M0	++	–	1+	Malignant	M	2
+G6	102	F	55	Breast	Invasive lobular carcinoma	–	IIIA	T2N2M0	–	+	2+	Malignant	L	1
+G7	103	F	47	Breast	Invasive lobular carcinoma	–	IIB	T2N1M0	++	+	0	Malignant	N	0
+G8	104	F	51	Breast	Invasive lobular carcinoma (sparse)	–	IIB	T2N1M0	+	–	2+	Malignant	M	2
+G9	105	F	69	Breast	Invasive lobular carcinoma	–	IIA	T2N0M0	–	–	0	Malignant	L	1
+G10	106	F	54	Breast	Invasive lobular carcinoma	–	IIB	T2N1M0	–	++	0	Malignant	L	1
+G11	107	F	59	Breast	Invasive lobular carcinoma	–	IIIB	T4N0M0	+	–	0	Malignant	H	3
+G12	108	F	70	Breast	Invasive lobular carcinoma	–	IIIA	T4N0M0	–	–	0	Malignant	N	0
+G13	109	F	38	Breast	Invasive lobular carcinoma	–	IIA	T2N0M0	+	++	0	Malignant	M	2
+G14	110	F	42	Breast	Invasive lobular carcinoma	–	IIB	T2N1M0	–	–	0	Malignant	N	0
+G15	111	F	47	Breast	Invasive lobular carcinoma	–	IIA	T2N0M0	+	++	0	Malignant	L	1
+G16	112	F	41	Breast	Invasive lobular carcinoma	–	IIIB	T4N0M0	–	+	0	Malignant	L	1
+H1	113	F	19	Breast	Invasive lobular carcinoma	–	IIB	T2N1M0	+	–	0	Malignant	L	1
+H2	114	F	40	Breast	Invasive lobular carcinoma	–	IIB	T2N1M0	–	–	0	Malignant	L	1
+H3	115	F	52	Breast	Invasive lobular carcinoma	–	IIB	T2N1M0	–	–	0	Malignant	M	2
+H4	116	F	59	Breast	Invasive lobular carcinoma (breast tissue)	–	IIA	T2N0M0	*	*	*	Malignant	M	2
+H5	117	F	48	Breast	Invasive lobular carcinoma (sparse)	–	IIB	T2N1M0	+	–	0	Malignant	L	1
+H6	118	F	50	Breast	Invasive lobular carcinoma (sparse)	–	IIB	T2N1M0	–	–	0	Malignant	M	2
+H7	119	F	45	Breast	Invasive lobular carcinoma	–	IIB	T2N1M0	+	++	0	Malignant	L	1
+H8	120	F	38	Breast	Invasive lobular carcinoma	–	IIIA	T3N1M0	+	–	3+	Malignant	M	2
+H9	121	F	52	Breast	Invasive lobular carcinoma	–	IIA	T2N0M0	–	–	3+	Malignant	L	1
+H10	122	F	45	Breast	Invasive lobular carcinoma	–	IIB	T2N1M0	–	–	0	Malignant	L	1
+H11	123	F	44	Breast	Squamous cell carcinoma	1–2	I	T1N0M0	–	–	0	Malignant	M	2
+H12	124	F	37	Breast	Squamous cell carcinoma	2	IIB	T3N0M0	–	–	0	Malignant	L	1
+H13	125	F	48	Breast	Squamous cell carcinoma	2	IIIB	T4N0M0	–	–	0	Malignant	M	2
+H14	126	F	47	Breast	Squamous cell carcinoma	2	I	T1N0M0	–	–	3+	Malignant	L	1
+H15	127	F	36	Breast	Intraductal carcinoma	–	0	TisN0M0	++	++	1+	Malignant	H	3
+H16	128	F	67	Breast	Intraductal carcinoma (sparse)	–	0	TisN0M0	*	–	3+	Malignant	M	2
+I1	129	F	45	Breast	Intraductal carcinoma	–	0	TisN0M0	–	–	3+	Malignant	H	3
+I2	130	F	68	Breast	Intraductal carcinoma	–	0	TisN0M0	+++	+++	0	Malignant	H	3
+I3	131	F	54	Breast	Intraductal carcinoma	–	0	TisN0M0	++	++	0	Malignant	H	3
+I4	132	F	45	Breast	Intraductal carcinoma	–	0	TisN0M0	++	++	0	Malignant	H	3
+I5	133	F	46	Breast	Intraductal carcinoma	–	0	TisN0M0	+	++	0	Malignant	H	3
+I6	134	F	52	Breast	Intraductal carcinoma	–	0	TisN0M0	+	+	0	Malignant	M	2
+I7	135	F	47	Breast	Intraductal carcinoma (adenosis)	–	0	TisN0M0	+	+	0	Malignant	H	3
+I8	136	F	41	Breast	Intraductal carcinoma	–	0	TisN0M0	–	–	0	Malignant	M	2
+I9	137	F	47	Breast	Intraductal carcinoma	–	IIA	T2N0M0	–	–	3+	Malignant	M	2
+I10	138	F	48	Breast	Intraductal carcinoma (breast tissue)	–	0	TisN0M0	+	–	0	Malignant	H	3
+I11	139	F	47	Breast	Intraductal carcinoma with early infiltration	–	IIA	T2N0M0	+++	+++	0	Malignant	H	3
+I12	140	F	45	Breast	Intraductal carcinoma	–	0	TisN0M0	–	–	2+	Malignant	N	0
+I13	141	F	39	Breast	Intraductal carcinoma	–	0	TisN0M0	–	–	3+	Malignant	L	1
+I14	142	F	46	Breast	Intraductal carcinoma	–	0	TisN0M0	–	–	3+	Malignant	L	1
+I15	143	F	49	Breast	Intraductal carcinoma	–	0	TisN0M0	+	+	2+	Malignant	H	3
+I16	144	F	45	Breast	Intraductal carcinoma	–	0	TisN0M0	+++	+++	0	Malignant	M	2
+J1	145	F	30	Breast	Intraductal carcinoma (duct tissue)	–	0	TisN0M0	*	*	*	Malignant	L	1
+J2	146	F	47	Breast	Intraductal carcinoma	–	IIB	T2N1M0	–	+	3+	Malignant	L	1
+J3	147	F	64	Breast	Intraductal carcinoma	–	0	TisN0M0	+++	+	0	Malignant	H	3
+J4	148	F	49	Breast	Intraductal carcinoma	–	IIA	T2N0M0	–	–	3+	Malignant	L	1
+J5	149	F	55	Breast	Intraductal carcinoma	–	0	TisN0M0	++	++	0	Malignant	H	3
+J6	150	F	43	Breast	Lobular carcinoma in situ (adenosis)	–	0	TisN0M0	–	+	0	Malignant	H	3
+J7	151	F	79	Breast	Lobular carcinoma in situ	–	0	TisN0M0	–	–	0	Malignant	H	3
+J8	152	F	48	Breast	Lobular carcinoma in situ	–	0	TisN0M0	++	++	0	Malignant	L	1
+J9	153	F	44	Breast	Fibroadenoma	–	–	–	++	++	0	Benign	L	1
+J10	154	F	27	Breast	Fibroadenoma	–	–	–	–	+	0	Benign	L	1
+J11	155	F	23	Breast	Fibroadenoma	–	–	–	++	+	0	Benign	L	1
+J12	156	F	45	Breast	Fibroadenoma	–	–	–	++	++	0	Benign	L	1
+J13	157	F	19	Breast	Fibroadenoma	–	–	–	++	+	0	Benign	L	1
+J14	158	F	23	Breast	Fibroadenoma	–	–	–	+	+	0	Benign	L	1
+J15	159	F	34	Breast	Fibroadenoma	–	–	–	+	+	0	Benign	L	1
+J16	160	F	25	Breast	Fibroadenoma	–	–	–	+	+	0	Benign	L	1
+K1	161	F	48	Breast	Adenosis with hyperplasia of breast duct	–	–	–	+	+	0	Hyperplasia	H	3
+K2	162	F	82	Breast	Adenosis with hyperplasia of breast duct	–	–	–	–	+	0	Hyperplasia	L	1
+K3	163	F	38	Breast	Adenosis with hyperplasia of breast duct	–	–	–	+	+	0	Hyperplasia	L	1
+K4	164	F	41	Breast	Moderate hyperplasia of breast duct	–	–	–	+	+	0	Hyperplasia	L	1
+K5	165	F	40	Breast	Atypical hyperplasia in duct (grade II)	–	–	–	+++	++	0	Hyperplasia	H	3
+K6	166	F	76	Breast	Adenosis with hyperplasia of breast duct	–	–	–	++	+	0	Hyperplasia	L	1
+K7	167	F	37	Breast	Adenosis with hyperplasia of breast duct	–	–	–	++	+	0	Hyperplasia	L	1
+K8	168	F	43	Breast	Hyperplasia of breast duct (hyalinosis of fibrous tissue)	–	–	–	*	*	*	Hyperplasia	H	3
+K9	169	F	45	Breast	Adenosis with moderate hyperplasia of duct	–	–	–	++	++	0	Hyperplasia	N	0
+K10	170	F	46	Breast	Hyperplasia (sparse breast tissue)	–	–	–	*	*	*	Hyperplasia	N	0
+K11	171	F	45	Breast	Hyperplasia (adenosis)	–	–	–	+	+	0	Hyperplasia	L	1
+K12	172	F	39	Breast	Hyperplasia (adenosis)	–	–	–	+	+		Hyperplasia	M	2
+K13	173	F	40	Breast	Hyperplasia (adenosis)	–	–	–	+	+	0	Hyperplasia	L	1
+K14	174	F	19	Breast	Hyperplasia (adenosis)	–	–	–	–	–	0	Hyperplasia	L	1
+K15	175	F	28	Breast	Hyperplasia (fibrous tissue and blood vessel)	–	–	–	*	*	*	Hyperplasia	L	1
+K16	176	F	35	Breast	Hyperplasia (adenosis)	–	–	–	+	*	*	Hyperplasia	L	1
+L1	177	F	29	Breast	Interstitial chronic inflammation	–	–	–	–	+	0	Normal	N	0
+L2	178	F	45	Breast	Interstitial chronic inflammation	–	–	–	–	–	0	Normal	N	0
+L3	179	F	31	Breast	Interstitial chronic inflammation	–	–	–	–	–	0	Normal	N	0
+L4	180	F	33	Breast	Interstitial chronic inflammation	–	–	–	–	–	0	Normal	N	0
+L5	181	F	39	Breast	Interstitial chronic inflammation with sparse carcinoma tissue	–	–	–	+	+	3+	Normal	L	1
+L6	182	F	40	Breast	Interstitial chronic inflammation (adenosis)	–	–	–	–	–	0	Normal	L	1
+L7	183	F	44	Breast	Chronic inflammation	–	–	–	+	+	0	Normal	L	1
+L8	184	F	29	Breast	Acute mastitis	–	–	–	–	–	0	Normal	L	1
+L9	185	F	43	Breast	Plasma cell mastitis	–	–	–	+	–	0	Normal	L	1
+L10	186	F	55	Breast	Plasma cell mastitis	–	–	–	–	–	0	Normal	L	1
+L11	187	F	28	Breast	Plasma cell mastitis	–	–	–	–	–	0	Normal	N	0
+L12	188	F	26	Breast	Plasma cell mastitis (fibrous tissue and blood vessel)	–	–	–	–	–	0	Normal	L	1
+L13	189	F	35	Breast	Plasma cell mastitis	–	–	–	–	–	0	Normal	M	2
+L14	190	F	78	Breast	Plasma cell mastitis	–	–	–	–	–	0	Normal	L	1
+L15	191	F	46	Breast	Plasma cell mastitis	–	–	–	–	–	0	Normal	L	1
+L16	192	F	32	Breast	Plasma cell mastitis	–	–	–	–	–	0	Normal	L	1
+M1	193	F	38	Breast	Cancer adjacent normal breast tissue	–	–	–	–	+	0	NAT	N	0
+M2	194	F	55	Breast	Cancer adjacent normal breast tissue (fatty tissue and fibrous tissue)	–	–	–	–	*	0	NAT	N	0
+M3	195	F	57	Breast	Cancer adjacent normal breast tissue (fatty tissue and fibrous tissue)	–	–	–	*	*	0	NAT	N	0
+M4	196	F	53	Breast	Cancer adjacent normal breast tissue (ductal ectasia)	–	–	–	–	*	0	NAT	N	0
+M5	197	F	43	Breast	Cancer adjacent normal breast tissue	–	–	–	+	+	0	NAT	N	0
+M6	198	F	35	Breast	Cancer adjacent normal breast tissue	–	–	–	–	+	0	NAT	N	0
+M7	199	F	38	Breast	Cancer adjacent normal breast tissue (fibrous tissue)	–	–	–	*	*	0	NAT	N	0
+M8	200	F	42	Breast	Cancer adjacent normal breast tissue	–	–	–	+	+	0	NAT	N	0
+M9	201	F	46	Breast	Cancer adjacent normal breast tissue	–	–	–	–	+	0	NAT	N	0
+M10	202	F	50	Breast	Cancer adjacent normal breast tissue with ductal epithelial hyperplasia	–	–	–	–	–	0	Normal	N	0
+M11	203	F	40	Breast	Cancer adjacent normal breast tissue	–	–	–	+	+	0	NAT	N	0
+M12	204	F	50	Breast	Cancer adjacent normal breast tissue (fibrous tissue and blood vessel)	–	–	–	*	*	0	NAT	N	0
+M13	205	F	35	Breast	Cancer adjacent normal breast tissue (fibrous tissue and blood vessel)	–	–	–	*	*	0	NAT	N	0
+M14	206	F	44	Breast	Cancer adjacent normal breast tissue of No. 9	–	–	–	+	–	0	NAT	N	0
+M15	207	F	48	Breast	Cancer adjacent normal breast tissue	–	–	–	–	+	0	NAT	N	0
+M16	208	F	45	Breast	Cancer adjacent normal breast tissue	–	–	–	+	–	0	NAT	L	1
+–	–	M	42	Adrenal gland	Pheochromocytoma (tissue marker)	–						Malignant	N	0
